@@ -10,7 +10,7 @@ redirect_from:
 
 # About us
 
-Association of Robotics and Artificial Intelligence - Machine Learning Group((ARAI-ML)[https://arai-ml.github.io/]) belongs to Association of Robotics and Artificial Intelligence Hainan University((ARAI)[https://a-rai.github.io/])
+Association of Robotics and Artificial Intelligence - Machine Learning Group([ARAI-ML](https://arai-ml.github.io/)) belongs to Association of Robotics and Artificial Intelligence Hainan University([ARAI](https://a-rai.github.io/))
 
 # Publications
 
