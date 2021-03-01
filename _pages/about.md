@@ -14,9 +14,19 @@ Association of Robotics and Artificial Intelligence - Machine Learning Group([AR
 
 # Publications
 
+To be added.
+
+# Project
+
+To be added.
+
 # Honors & Awards
 
+To be added.
+
 # Activities
+
+To be added.
 
 # Contact
 
